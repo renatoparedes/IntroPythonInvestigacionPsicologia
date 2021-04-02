@@ -8,7 +8,7 @@ En esta página están presentes los tutoriales y guías prácticas de Google Co
 
 |   | Teoría | Práctica |
 | - | --- | ---- |
-| Fundamentos de Programación I | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/Introduccion%20a%20Python/FundamentosdeProgramacion_I.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/Introduccion%20a%20Python/Practica_FundamentosdeProgramacion_I.ipynb)|
-
+| Fundamentos de Programación I | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/IntroduccionaPython/FundamentosdeProgramacion_I.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/IntroduccionaPython/Practica_FundamentosdeProgramacion_I.ipynb)|
+| Fundamentos de Programación II | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/IntroduccionaPython/FundamentosdeProgramacion_II.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/IntroduccionaPython/Practica_FundamentosdeProgramacion_II.ipynb)|
 
 
