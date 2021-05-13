@@ -19,3 +19,4 @@ En esta página están presentes los tutoriales y guías prácticas de Google Co
 |   | Instrucciones |
 | - | --- | 
 | Ejercicio de programación | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/EntregasCalificadas/EjerciciodeProgramacion.ipynb)|
+| Proyecto de análisis de datos cuantitativos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatoparedes/IntroPythonInvestigacionPsicologia/blob/master/EntregasCalificadas/ProyectodeAnalisisdeDatosCuantitativos.ipynb)|
